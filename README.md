@@ -55,6 +55,8 @@
   <img alt="Trello" src=https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white />
 </div>
 
-<img alt="Snake" src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/main/assets/snake.svg" />
+<p align="center">
+  <img alt="Snake" src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/main/assets/snake.svg" />
+</p>
 
 
