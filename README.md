@@ -18,7 +18,7 @@
   📚 Atualmente estou estudando tudo 🤣.<br>
   🧠 Utilizo habilidades analíticas.<br> 
   💞️ Colaboro para o trabalho em equipe.<br>
-  🎯 Objetivos: para 2023 publicar artigos e projetos.
+  🎯 Objetivos para 2023: publicar artigos e projetos.
 </p>
 
 <h2 align="left"> 
