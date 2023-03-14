@@ -55,8 +55,8 @@
   <img alt="Trello" src=https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white />
 </div>
 
-<p align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/main/assets/snake.svg" />
-</p>
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 
