@@ -57,6 +57,8 @@
 
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<p align="center">
+  <img alt="Snake" src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/main/assets/snake.svg" />
+</p>
 
 
