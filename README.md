@@ -6,21 +6,6 @@
   Olá 👋, eu sou Marcelo! Amo entender como as coisas funcionam e criar clareza a partir do caos.
 </h4>
 
-<h2 align="left">
-  💫 Sobre mim:
-</h2>
-
-<p align="left">
-  🎓 Sou Bacharel em Direito.<br> 
-  🚀 Entusiasta de tecnologia.<br> 
-  💻 Possuo certificações na aréa de dados e tecnologia.<br>
-  👀 Estou interessado em Ciência de Dados.<br>
-  📚 Atualmente estou estudando tudo 🤣.<br>
-  🧠 Utilizo habilidades analíticas.<br> 
-  💞️ Colaboro para o trabalho em equipe.<br>
-  🎯 Objetivos para 2023: publicar artigos e projetos.
-</p>
-
 <h2 align="left"> 
   <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> 
   Conecte-se: 
