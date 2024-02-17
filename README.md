@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="left">
-  Olá 👋, eu sou Marcelo! Amo entender como as coisas funcionam e criar clareza a partir do caos.
+  Olá 👋, eu sou Marcelo!
 </h4>
 
 <h2 align="left"> 
