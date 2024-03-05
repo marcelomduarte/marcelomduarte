@@ -9,7 +9,6 @@
 <h2 align="left"> 
   <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> 
   Conecte-se: 
-  <img src="https://user-images.githubusercontent.com/42711978/107780737-19675f80-6d6d-11eb-95dd-102a22c972d3.gif" height="32"> 
 </h2> 
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/marcelomduarte/)
