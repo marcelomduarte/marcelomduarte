@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover2.png">
+  <img src="assets/cover.png">
 </p>
 
 <h4 align="left">
