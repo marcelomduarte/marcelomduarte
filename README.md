@@ -7,7 +7,6 @@
 </h4>
 
 <h2 align="left"> 
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> 
   Conecte-se: 
 </h2> 
 
@@ -40,8 +39,7 @@
 </div>
 
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img alt="Snake" src="https://raw.githubusercontent.com/marcelomduarte/marcelomduarte/main/assets/snake.svg">
+
 
 
 
