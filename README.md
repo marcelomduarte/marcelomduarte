@@ -13,7 +13,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/marcelomduarte/)
 
 <h2 align="left">
-  💻🛠️Linguagens e Ferramentas:
+Linguagens e Ferramentas:
 </h2>
 
 <div align="left">
